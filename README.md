@@ -2,7 +2,7 @@
 
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB, nesse projeto foi criado um player de música.
 
-<img width="960" alt="image" src="https://github.com/janinesiqueira/music-player/assets/108677688/e1c5640a-da6e-4244-bbfc-c84d64033bbf">
+<img width="641" alt="hoje" src="https://github.com/janinesiqueira/music-player/assets/108677688/1f10d25c-5ec1-4e38-a2b4-49ffa6e2005d">
 
 ### 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
